@@ -5,7 +5,7 @@
   --app-radius: 10px;
   --sidebar-color: rgba(0,0,0,0.4);
   --main-content-color: rgba(0,0,0,0.2);
-  --accent-hue: 156;
+  --accent-hue: 183;
   --accent-saturation: 77.5%;
   --accent-lightness: 47.1%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
@@ -28,7 +28,7 @@
   --mention-lightness: var(--accent-lightness);
   --mention-hsl: var(--mention-hue),calc(var(--mention-saturation) * var(--saturation-factor)),var(--mention-lightness);
   --mention-opacity: 1;
-  --reply-hue: 226;
+  --reply-hue: 200;
   --reply-saturation: 77.4%;
   --reply-lightness: 61.8%;
   --reply-hsl: var(--reply-hue),calc(var(--reply-saturation) * var(--saturation-factor)),var(--reply-lightness);
